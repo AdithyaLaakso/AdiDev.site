@@ -5,8 +5,8 @@ import "./src/styles/global.css"
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://adithyalaakso.github.io/',
-  base: '/AdiDev.site',
+  site: 'adidev.site',
+  base: '/',
   vite: {
     plugins: [tailwindcss()],
   },
