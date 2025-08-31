@@ -55,11 +55,11 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Technology Instructor",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Future Innovators Academy",
+      title: "Technology Instructor",
+      dateRange: "Aug 2024 - Aug 2024",
       bullets: [
-        "Taught 500+ students embedded programming in Arduino C++ from beginner to novice level in under a week each."
+        "Taught students embedded programming in Arduino C++ from beginner to novice level in under a week each."
       ],
     },
     {
