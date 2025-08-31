@@ -86,7 +86,8 @@ export const siteConfig = {
   education: [
     {
       school: "Michigan Technological University",
-      degree: "Bachelor of Science in Computer Science (2023 - )",
+      degree: "Bachelor of Science in Computer Science",
+      dateRange: "Aug 2023 - ",
       achievements: [
         "Startup Competition Winner",
         "Academic Merit Scholarship Recipiant",
