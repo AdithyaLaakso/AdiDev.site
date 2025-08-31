@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Adithya Laakso",
   title: "Full Stack Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Adithya Laakso is a developer",
   accentColor: "#228B22",
   social: {
     email: "adithya.laakso@gmail.com",
