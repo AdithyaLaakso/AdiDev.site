@@ -59,11 +59,11 @@ export const siteConfig = {
       title: "Technology Instructor",
       dateRange: "Aug 2024 - Aug 2024",
       bullets: [
-        "Taught students embedded programming in Arduino C++ from beginner to novice level in under a week each."
+        "Taught Students Embedded Programming in Arduino C++ from Beginner to Novice Level in Under a Week Each."
       ],
     },
     {
-      company: "Michigan Technical University IT",
+      company: "Michigan Technological University IT",
       title: "DevOps Intern",
       dateRange: "Aug 2023 - May 2024",
       bullets: [
@@ -85,7 +85,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Michigan Technical University",
+      school: "Michigan Technological University",
       degree: "Bachelor of Science in Computer Science",
       achievements: [
         "Startup Competition Winner",
