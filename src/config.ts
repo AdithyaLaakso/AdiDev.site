@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/AdithyaLaakso",
   },
   aboutMe:
-    "I am a well well-rounded full-stack developer with strong additional interests in computer vision and DevOps. In my free-time I like to play chess and write fantasy novels",
+    "I am a well-rounded full-stack developer with strong additional interests in computer vision and DevOps. In my free-time I like to play chess and write fantasy novels",
   skills: ["TypeScript", "C++", "React", "Node.js", "Python", "Shell Scripting", "PyTorch", "Rust"],
   projects: [
     {
